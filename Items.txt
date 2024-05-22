@@ -1,0 +1,10 @@
+1;Arc;26;19
+3;Cutit;9;20
+4;Sabie;5;14
+6;Topor;16;14
+7;Arc;19;19
+8;Cutit;5;14
+9;Cutit;34;16
+10;Ciocan;5;14
+11;Cutit;29;5
+12;Topor;32;17

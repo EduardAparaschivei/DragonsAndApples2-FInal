@@ -1,0 +1,10 @@
+1;Maloc;1;100
+2;Gorloc;2;200
+3;Malak;3;300
+4;Derek;4;400
+5;Azol;5;500
+6;Gol;6;600
+7;Braum;7;700
+8;Bloodfang;8;800
+9;Dreadfire;9;900
+10;DeathBringer;10;1000
